@@ -20,6 +20,9 @@ By the end of this session, you’ll be able to
 * ### [V2 Code](https://github.com/SDiamante13/loan-management-service/tree/dcjug-07-16-25)
 * ### [V2 Slides 7/16/2025 @ DCJUG](TheJavaLegacyCodeSurvivalGuideV2.pptx)
 
+* ### [V3 Code](https://github.com/SDiamante13/loan-management-service/tree/kcdc-08-14-25)
+* ### [V3 Slides 8/14/2025 @ KCDC 2025](TheJavaLegacyCodeSurvivalGuideV3.pptx)
+
 ## Video
 
 ### Seattle Software Craters on 5/22/2025
