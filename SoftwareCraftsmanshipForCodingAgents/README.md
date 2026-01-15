@@ -15,6 +15,6 @@ By the end of this session, you'll be able to:
 ## Talk Resources
 
 * ### [Code](https://github.com/SDiamante13/diamante-investments-v2/tree/code-mash-2026-01-15)
-* ### [Slides 1/15/2026](TamingTheDragonWorkshop.pptx)
+* ### [Slides 1/15/2026](TamingTheDragonWorkshop.pdf)
 * ### [Claude Code Skills & Agents](https://github.com/SDiamante13/dotfiles/tree/main/claude)
 * ### [Augmented Coding Patterns](https://lexler.github.io/augmented-coding-patterns/pattern-catalog)
