@@ -1,4 +1,4 @@
-# Software Craftsmanship for Coding Agents: Taming the Dragon
+# Taming the Dragon: Ship Production Code with AI Coding Agents
 
 ## Abstract
 
@@ -15,6 +15,7 @@ By the end of this session, you'll be able to:
 ## Talk Resources
 
 * ### [Code](https://github.com/SDiamante13/diamante-investments-v2/tree/code-mash-2026-01-15)
-* ### [Slides 1/15/2026](TamingTheDragonWorkshop.pdf)
+* ### [Alternate Code from 2/26/26 Workshop](https://github.com/SDiamante13/diamante-investments-v2/tree/taming-the-dragon-02-26-26)
+* ### [Slides 2/26/2026](TamingTheDragonWorkshop.pdf)
 * ### [Claude Code Skills & Agents](https://github.com/SDiamante13/dotfiles/tree/main/claude)
 * ### [Augmented Coding Patterns](https://lexler.github.io/augmented-coding-patterns/pattern-catalog)
