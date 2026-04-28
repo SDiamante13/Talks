@@ -1,6 +1,9 @@
 # Steven Diamante's Talks
 
+* [Making AI Coding Agents Build the Thing Right](MakingAICodingAgentsBuildTheThingRight/README.md)
+* [Your Teams Need Learning Time, Not More AI Tools](YourTeamsNeedLearningTimeNotMoreAITools/README.md)
 * [Software Craftsmanship for Coding Agents: Taming the Dragon](SoftwareCraftsmanshipForCodingAgents/README.md)
+* [Refactor Java With Confidence Workshop](RefactorJavaWithConfidenceWorkshop/README.md)
 * [The Java Legacy Code Survivial Guide](TheJavaLegacyCodeSurvivialGuide/README.md)
 * [Cultivating a Culture of Learning and Deliberate Practice](CultivatingACultureOfLearningAndDeliberatePractice/README.md)
 * [Let's Make Long Methods a Thing of the Past](LetsMakeLongMethodsAThingOfThePast/README.md)
