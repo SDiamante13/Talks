@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Coding agents like Claude Code and Cursor promise to revolutionize how we build software, but in untrained hands, they're more like dragons—powerful, unpredictable, and likely to burn down your codebase. After building scalable, maintainable production applications with coding agents, I've learned that traditional software craftsmanship principles are not just relevant for AI-assisted development—they're essential for survival.
+Coding agents like Claude Code and Codex promise to revolutionize how we build software, but in untrained hands, they're more like dragons—powerful, unpredictable, and likely to burn down your codebase. After building scalable, maintainable production applications with coding agents, I've learned that traditional software craftsmanship principles are not just relevant for AI-assisted development—they're essential for survival.
 
 I'll show you how engineering practices like test-driven development, continuous refactoring, and working in small batches transform unpredictable coding agents into reliable, collaborative partners. Through hands-on coding agent collaboration, we'll build an application from scratch, showing how tight feedback loops and precise task breakdown turn chaotic AI output into production-ready code.
 
@@ -15,6 +15,6 @@ By the end of this session, you'll be able to:
 ## Talk Resources
 
 * ### [Slides](TamingTheDragonWorkshop.pdf)
-* ### [Code](https://github.com/SDiamante13/diamante-investments-v2/compare/main...taming-the-dragon-04-15-26)
-* ### [Claude Code Skills & Agents](https://github.com/SDiamante13/dotfiles/tree/main/claude)
+* ### [Code](https://github.com/SDiamante13/diamante-investments-v2/compare/main...taming-the-dragon-06-23-26)
+* ### [Agent Skills](https://github.com/SDiamante13/dotfiles/tree/main/claude/skills)
 * ### [Augmented Coding Patterns](https://lexler.github.io/augmented-coding-patterns/pattern-catalog)
