@@ -6,7 +6,7 @@ You point a coding agent at your legacy system and it happily rewrites a 400-lin
 
 Agents are not the problem. The missing safety net is. The practices that made legacy code survivable for humans — characterization tests, approval tests, mutation testing, naming as a process, tiny refactorings over a long horizon — are exactly what make an agent trustworthy in a brownfield codebase. Mutation testing tells you whether your tests would actually catch the agent when it changes behavior. Approval tests pin down code you don't understand yet. Signposts like agent instruction files placed throughout the tree give the agent the context your codebase never wrote down.
 
-Through recorded demos on a real legacy Java service, I'll show how to build that harness and then let agents work inside it — including slow loops that refactor continuously in your pipeline and a swarm of agents each refactoring through a single narrow lens. From coaching teams through this in their own brownfield systems, the pattern holds: the harness comes first, and the agent becomes an asset instead of a liability. The examples are Java; the practices are not.
+I'll show you how to build that harness and then let agents work inside it — including slow loops that refactor continuously in your pipeline nightly and a swarm of agents each refactoring through a single narrow lens.
 
 By the end of this session, you'll be able to
 
