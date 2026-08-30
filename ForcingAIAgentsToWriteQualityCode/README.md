@@ -2,21 +2,21 @@
 
 ## Abstract
 
-Coding agents write more code in an afternoon than a team can read in a week. The old safety net of code review doesn't scale to that volume, and it arrives too late to change what the agent does next. We write rules files and ask the agent to write clean code, but it's still not good enough. And even when we finally brute force it into writing the kind of code we'd be proud to ship, we're exhausted and have a feeling we could have just written the code ourselves.
+Coding agents write more code in an afternoon than a team can read in a week. Code review doesn't scale to that volume, and it arrives too late to change what the agent does next. So we write rules files and ask for clean code, and the agent hands back something we'd be embarrassed to ship. By the time we've argued it into shape, we're worn out and wondering why we didn't write the thing ourselves.
 
-AI-generated code fails in three ways: it breaks the rules, it breaks behavior, or it quietly rots the design. I'll walk through three automated quality sensors that give the agent real-time feedback while it's working: 
+AI-generated code fails in three ways: it breaks the rules, it breaks behaviors, or it rots the design over time. I'll walk through three automated quality sensors that feed the agent that information while it still has the file open:
 
-- Structural
-- Behavioral
-- Design 
+- Structural Sensor: strict linting rules, paired with guides that tell the agent why a rule exists and how to satisfy it
+- Behavioral Sensor: mutation testing. Coverage is a number the agent can game, and a surviving mutant names a test that passes without protecting anything
+- Design Sensor: frozen architectural boundaries, automated documentation updates, and computed design rules that catch coupling as it creeps in between prompts
 
-Linting rules, test coverage, and telling the agent to write clean code isn't enough anymore. We need an automated system that can force an agent to have good coding habits.
+Put a sensor in a hook the agent has to run and it changes what the agent writes. Put it in a rules file and the agent skims past it. I'll show you which checks belong on every edit, which ones to save for the commit, and what an agent does when it can't pass a check and decides to delete the check instead.
 
-Examples are TypeScript, but the concepts and libraries used are transferrable to any tech stack.
+Examples are in TypeScript. The concepts and the libraries port to any stack.
 
 By the end of this session, you'll be able to:
 
-- identify which of the three failure modes your codebase is currently blind to
+- identify which of the three failure modes your codebase is blind to
 - execute an automated system of triggers that guide your agent to write maintainable software
 - pick the one check worth adding to your repo first, and wire it where the agent can't ignore it
 
