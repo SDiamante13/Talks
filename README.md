@@ -1,5 +1,7 @@
 # Steven Diamante's Talks
 
+* [Forcing AI Agents to Write Quality Code](ForcingAIAgentsToWriteQualityCode/README.md)
+* [The Legacy Code Survival Guide for Coding Agents](LegacyCodeSurvivalGuideForCodingAgents/README.md)
 * [Making AI Coding Agents Build the Thing Right](MakingAICodingAgentsBuildTheThingRight/README.md)
 * [Your Teams Need Learning Time, Not More AI Tools](YourTeamsNeedLearningTimeNotMoreAITools/README.md)
 * [Software Craftsmanship for Coding Agents: Taming the Dragon](SoftwareCraftsmanshipForCodingAgents/README.md)
