@@ -15,6 +15,6 @@ By the end of this session, you'll be able to:
 ## Talk Resources
 
 * ### [Slides](TamingTheDragonWorkshop.pdf)
-* ### [Code](https://github.com/SDiamante13/diamante-investments-v2/compare/main...taming-the-dragon-06-23-26)
+* ### [Code](https://github.com/SDiamante13/diamante-investments-v2/compare/main...taming-the-dragon-09-01-26)
 * ### [Agent Skills](https://github.com/SDiamante13/dotfiles/tree/main/claude/skills)
 * ### [Augmented Coding Patterns](https://lexler.github.io/augmented-coding-patterns/pattern-catalog)
